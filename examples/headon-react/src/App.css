@@ -1,0 +1,7 @@
+.flex-full {
+  flex-grow: 1;
+}
+
+.home3col div {
+  flex-grow: 1;
+}
