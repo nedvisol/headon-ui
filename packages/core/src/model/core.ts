@@ -19,6 +19,7 @@ export type ReactComponent = React.ComponentClass<any, any> | React.FC<any>;
 export interface ComponentRegistryEntry {
     componentType: ReactComponent
 }
+
 interface HeadOnCache {
     [path:string]: HeadOnView
 }
