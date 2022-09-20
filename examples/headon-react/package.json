@@ -20,7 +20,10 @@
     "redux-logger": "^3.0.6",
     "styled-components": "^5.3.5",
     "typescript": "^4.8.3",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@headon/react": "^0.1.0",
+    "@headon/next": "^0.1.0",
+    "@headon/core": "^0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
