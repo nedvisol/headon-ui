@@ -31,7 +31,5 @@
   "peerDependencies": {
     "@headon/core": "0.x",
     "contentful": "9.x"
-  },
-  "devDependencies": {
   }
 }

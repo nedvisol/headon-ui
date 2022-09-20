@@ -32,7 +32,5 @@
     "@headon/core": "0.x",
     "@headon/react": "0.x",
     "next": "12.x"
-  },
-  "devDependencies": {
   }
 }
