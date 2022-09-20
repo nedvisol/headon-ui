@@ -1,0 +1,5 @@
+# Overview
+<a name="overview"></a>
+The primary objective of Head-On UI is to help web developers create an interactive web application using Open Source frameworks such as React and NextJS, while using "headless" content management system (CMS) for managing the content and the layout of the application. We define headless CMS as a CMS that expose the content via API as JSON (or even XML!), rather than fully-rendered HTML markups. 
+
+Head-On UI does not only inject content (text, labels, etc) into your application, but it also helps you manage the layout as well. The benefit of this is that both the content *and* the layout of your application can be modified on-the-fly without modification to the source code (which leads to rebuild and redeployment.) Non-technical users such as web content manager can manage the content and layout of your React (or NextJS) application as well.
