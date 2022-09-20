@@ -1,7 +1,7 @@
 {
   "name": "@headon/react",
-  "version": "0.0.0",
-  "description": "> TODO: description",
+  "version": "0.1.0",
+  "description": "Head-On UI library enables web developer to build light weight web applications that uses a headless content management system (CMS) for managing content and UI experience. This package includes the core framework for React.",
   "author": "Ned Visolyaputra <0_ratios.mutes@icloud.com>",
   "homepage": "https://github.com/nedvisol/headon-ui#readme",
   "license": "MIT",
@@ -30,7 +30,7 @@
   },
   "peerDependencies": {
     "@headon/core": "0.x",
-    "react": "18.x"
+    "react": "17.x || 18.x"
   },
   "devDependencies": {
     "@types/react": "^18.0.18"
