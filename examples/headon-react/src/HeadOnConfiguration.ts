@@ -22,8 +22,8 @@ export const componentRegistry:ComponentRegistry = {
   
   // const contentfulCmsClient = new ContentfulCmsClient({
   //   contenful: {
-  //     space: 's4d39om6y5tz',
-  //     accessToken: 'xgHbnagV0M76Us27v2YjVjyQPhKGLh5jqakZCIoaeZY'
+  //     space: '...',
+  //     accessToken: '...'
   //   }
   // });
   
