@@ -1,6 +1,6 @@
 {
   "name": "@headon/contentful",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Contentful client adapter for Head-On UI framework. Head-On UI library enables web developer to build light weight web applications that uses a headless content management system (CMS) for managing content and UI experience.",
   "author": "Ned Visolyaputra <0_ratios.mutes@icloud.com>",
   "homepage": "https://github.com/nedvisol/headon-ui#readme",
