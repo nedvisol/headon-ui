@@ -14,6 +14,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nedvisol/headon-ui.git"
@@ -28,5 +31,6 @@
   "devDependencies": {
     "@types/react": "^18.0.18",
     "react": "18.x"
-  }
+  },
+  "gitHead": "8972f4fcb63bf2590a2a0ec603dcd182e05c51fb"
 }

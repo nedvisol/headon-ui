@@ -31,5 +31,6 @@
   "peerDependencies": {
     "@headon/core": "0.x",
     "contentful": "9.x"
-  }
+  },
+  "gitHead": "8972f4fcb63bf2590a2a0ec603dcd182e05c51fb"
 }
