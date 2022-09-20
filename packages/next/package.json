@@ -1,6 +1,6 @@
 {
   "name": "@headon/next",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Head-On UI library enables web developer to build light weight web applications that uses a headless content management system (CMS) for managing content and UI experience. This package includes a library for integration with NextJS",
   "author": "Ned Visolyaputra <0_ratios.mutes@icloud.com>",
   "homepage": "https://github.com/nedvisol/headon-ui#readme",
