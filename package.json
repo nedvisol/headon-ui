@@ -6,7 +6,7 @@
     "packages/*"    
   ],
   "scripts": {
-    "publish-all": "lerna publish --dist-tag latest",
+    "publish:all": "lerna run build && lerna publish --dist-tag latest",
     "lint": "eslint . -c .eslintrc.json --ignore-path .gitignore --cache --cache-location ./node_modules/.cache/eslint"
   },
   "devDependencies": {
