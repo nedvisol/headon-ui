@@ -28,6 +28,18 @@ export const componentRegistry:ComponentRegistry = {
   // });
   
   export const cmsClient = new StaticCmsClient({static: {
+    'custom': {
+      urlSlug: 'custom',
+      items: [
+        {
+          componentType: 'componentTitleParagraph',
+          props: {
+            title: 'From route name',
+            paragraph: 'Lorem ipsum'
+          }
+        }
+      ]
+    },
     '/home': {
       urlSlug: '/home',
       items: [

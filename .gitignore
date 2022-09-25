@@ -3,3 +3,4 @@ lib
 .nyc_output
 .esbuild
 coverage
+.DS_Store
